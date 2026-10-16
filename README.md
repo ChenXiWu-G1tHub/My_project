@@ -1,2 +1,2 @@
 # My_project
-SOCS0100 projects on social sciences
+SOCS0100 computational projects on social sciences
